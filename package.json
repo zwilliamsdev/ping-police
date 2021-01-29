@@ -1,0 +1,15 @@
+{
+  "name": "pilot-emilie",
+  "version": "1.0.0",
+  "description": "Bot to warn people for pinging Emilie",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zach Williams",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
