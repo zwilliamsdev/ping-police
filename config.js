@@ -1,6 +1,5 @@
 Config = {
-    "debug": false,
-    "rules": "802572500512538634",
-    "reporting": "802572500512538634",
-    "message": "She is very active on the Discord and will see your message if you just type her name! (Without the @)"
+    "debug": false, // Turn on or off debug statements
+    "reporting": "802572500512538634", // Channel where you want the bot to log the message
+    "blacklist": "150464992074792960" // Blacklisted member
 }
